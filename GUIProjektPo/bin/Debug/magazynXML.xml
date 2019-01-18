@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Magazyn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NazwaM>nasz MAgazyn</NazwaM>
+  <ListaProduktow>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>A Star Is Born</Nazwa>
+      <DataWydania>2017-12-12T00:00:00</DataWydania>
+      <Autor>Lady Gaga</Autor>
+      <Cena>41</Cena>
+      <NrSeryjny>1027/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>filmowa</KategoriaMuzyki>
+      <Wytwornia>Bradley</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Bajeczki do poduszki dla najmłodszych</Nazwa>
+      <DataWydania>2015-09-30T00:00:00</DataWydania>
+      <Autor>Krzysztof Miś</Autor>
+      <Cena>19</Cena>
+      <NrSeryjny>1049/2015/K</NrSeryjny>
+      <TypKsiazki>dla_dzieci</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Baśnie 1000 i jednej nocy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Allie Morgan</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1002/2017/K</NrSeryjny>
+      <TypKsiazki>bajka</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Chłopcy z ferajny</Nazwa>
+      <DataWydania>2003-10-12T00:00:00</DataWydania>
+      <Autor>Michael Smart</Autor>
+      <Cena>65</Cena>
+      <NrSeryjny>1017/2003/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Chwile ulotne</Nazwa>
+      <DataWydania>2016-09-02T00:00:00</DataWydania>
+      <Autor>Lanek</Autor>
+      <Cena>29</Cena>
+      <NrSeryjny>1038/2016/CD</NrSeryjny>
+      <KategoriaMuzyki>hiphop</KategoriaMuzyki>
+      <Wytwornia>Siedem</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Cokolwiek wybierzesz. Ukryta sieć. Tom 1</Nazwa>
+      <DataWydania>2011-05-17T00:00:00</DataWydania>
+      <Autor>Szamałek Jakub</Autor>
+      <Cena>47</Cena>
+      <NrSeryjny>1052/2011/K</NrSeryjny>
+      <TypKsiazki>romans</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Czapkins. Historia Tomka Mackiewicza</Nazwa>
+      <DataWydania>2016-09-03T00:00:00</DataWydania>
+      <Autor>Szczepański Dominik</Autor>
+      <Cena>48</Cena>
+      <NrSeryjny>1047/2016/K</NrSeryjny>
+      <TypKsiazki>horror</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Divide</Nazwa>
+      <DataWydania>2017-12-02T00:00:00</DataWydania>
+      <Autor>Ed Sheeran</Autor>
+      <Cena>42</Cena>
+      <NrSeryjny>1030/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Sun</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Django</Nazwa>
+      <DataWydania>2009-10-12T00:00:00</DataWydania>
+      <Autor>Adam Johanson</Autor>
+      <Cena>90</Cena>
+      <NrSeryjny>1021/2009/F</NrSeryjny>
+      <RodzajFilmu>science_fiction</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Dwunastu gniewnych ludzi</Nazwa>
+      <DataWydania>0001-01-01T00:00:00</DataWydania>
+      <Autor>Reginland Rose</Autor>
+      <Cena>45</Cena>
+      <NrSeryjny>1006/1/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Feels Like Home</Nazwa>
+      <DataWydania>2016-10-09T00:00:00</DataWydania>
+      <Autor>Jones Norah</Autor>
+      <Cena>20</Cena>
+      <NrSeryjny>1024/2016/CD</NrSeryjny>
+      <KategoriaMuzyki>jazz</KategoriaMuzyki>
+      <Wytwornia>One</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Forrest Gump</Nazwa>
+      <DataWydania>1994-11-04T00:00:00</DataWydania>
+      <Autor>Robert Zemeckis</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1007/1994/F</NrSeryjny>
+      <RodzajFilmu>komedia</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Incepcja</Nazwa>
+      <DataWydania>2006-10-12T00:00:00</DataWydania>
+      <Autor>Kate Wilson</Autor>
+      <Cena>10</Cena>
+      <NrSeryjny>1020/2006/F</NrSeryjny>
+      <RodzajFilmu>thriller</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Jestem</Nazwa>
+      <DataWydania>2017-12-01T00:00:00</DataWydania>
+      <Autor>Lady Pank</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1031/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Polska</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Kasacja. Joanna Chyłka. Tom 1</Nazwa>
+      <DataWydania>2017-11-05T00:00:00</DataWydania>
+      <Autor>Mróz Remigiusz</Autor>
+      <Cena>37</Cena>
+      <NrSeryjny>1046/2017/K</NrSeryjny>
+      <TypKsiazki>historia</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Krótkie odpowiedzi na wielkie pytania</Nazwa>
+      <DataWydania>2013-03-11T00:00:00</DataWydania>
+      <Autor>Hawking Stephen</Autor>
+      <Cena>60</Cena>
+      <NrSeryjny>1051/2013/K</NrSeryjny>
+      <TypKsiazki>filozofia</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>La donna</Nazwa>
+      <DataWydania>2016-01-01T00:00:00</DataWydania>
+      <Autor>Richard Bon</Autor>
+      <Cena>20</Cena>
+      <NrSeryjny>1041/2016/CD</NrSeryjny>
+      <KategoriaMuzyki>opera</KategoriaMuzyki>
+      <Wytwornia>Sun</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Lista Shindlera</Nazwa>
+      <DataWydania>1993-12-31T00:00:00</DataWydania>
+      <Autor>Steven Spielberg</Autor>
+      <Cena>60</Cena>
+      <NrSeryjny>1010/1993/F</NrSeryjny>
+      <RodzajFilmu>inne</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Load</Nazwa>
+      <DataWydania>1990-02-03T00:00:00</DataWydania>
+      <Autor>Metallica</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1025/1990/CD</NrSeryjny>
+      <KategoriaMuzyki>rock</KategoriaMuzyki>
+      <Wytwornia>Toxic</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Lot nad kukułczym gniazdem</Nazwa>
+      <DataWydania>1975-12-31T00:00:00</DataWydania>
+      <Autor>Milos Forman</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1008/1975/F</NrSeryjny>
+      <RodzajFilmu>inne</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Lunatycy</Nazwa>
+      <DataWydania>1970-10-10T00:00:00</DataWydania>
+      <Autor>Dżem</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1039/1970/CD</NrSeryjny>
+      <KategoriaMuzyki>rock</KategoriaMuzyki>
+      <Wytwornia>Klasyki</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Lunchbox na każdy dzień. Przepisy inspirowane japońskim bento</Nazwa>
+      <DataWydania>2019-05-14T00:00:00</DataWydania>
+      <Autor>Bareła Malwina</Autor>
+      <Cena>17</Cena>
+      <NrSeryjny>1062/2019/K</NrSeryjny>
+      <TypKsiazki>kuchenna</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Magia zmiany. Przekrocz własne granice i osiągnij cel</Nazwa>
+      <DataWydania>2010-12-11T00:00:00</DataWydania>
+      <Autor>Czarodziej Jakub</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1055/2010/K</NrSeryjny>
+      <TypKsiazki>thriller</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Małomiasteczkowy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Dawid Podsiadło</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1001/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Opolska</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Mamma Mia!</Nazwa>
+      <DataWydania>2015-05-12T00:00:00</DataWydania>
+      <Autor>Various Artists</Autor>
+      <Cena>20</Cena>
+      <NrSeryjny>1034/2015/CD</NrSeryjny>
+      <KategoriaMuzyki>składanka</KategoriaMuzyki>
+      <Wytwornia>Best</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Milczenie owiec</Nazwa>
+      <DataWydania>2018-05-12T00:00:00</DataWydania>
+      <Autor>Samanta Hund</Autor>
+      <Cena>88</Cena>
+      <NrSeryjny>1022/2018/F</NrSeryjny>
+      <RodzajFilmu>obyczajowy</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Mini dom</Nazwa>
+      <DataWydania>2017-08-09T00:00:00</DataWydania>
+      <Autor>Kortez</Autor>
+      <Cena>29.9</Cena>
+      <NrSeryjny>1028/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Światło</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Nieodgadniona</Nazwa>
+      <DataWydania>2017-08-19T00:00:00</DataWydania>
+      <Autor>Remigiusz Mróz</Autor>
+      <Cena>45</Cena>
+      <NrSeryjny>1043/2017/K</NrSeryjny>
+      <TypKsiazki>dramat</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Niewyjaśnione okoliczności</Nazwa>
+      <DataWydania>2009-02-24T00:00:00</DataWydania>
+      <Autor>Shepherd Richard</Autor>
+      <Cena>24</Cena>
+      <NrSeryjny>1053/2009/K</NrSeryjny>
+      <TypKsiazki>biografia</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>No more</Nazwa>
+      <DataWydania>2017-09-02T00:00:00</DataWydania>
+      <Autor>Din</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1040/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>metal</KategoriaMuzyki>
+      <Wytwornia>Fun</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Oddycham</Nazwa>
+      <DataWydania>2016-08-03T00:00:00</DataWydania>
+      <Autor>Kamil Bednarek</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1029/2016/CD</NrSeryjny>
+      <KategoriaMuzyki>reggae</KategoriaMuzyki>
+      <Wytwornia>Talizman</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Ojciec chrzestny</Nazwa>
+      <DataWydania>1972-12-31T00:00:00</DataWydania>
+      <Autor>Francis Ford Coppola</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1005/1972/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Ojciec chrzestny II</Nazwa>
+      <DataWydania>1974-12-12T00:00:00</DataWydania>
+      <Autor>Francis Ford Coppola</Autor>
+      <Cena>58</Cena>
+      <NrSeryjny>1009/1974/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Peron</Nazwa>
+      <DataWydania>2017-10-19T00:00:00</DataWydania>
+      <Autor>Jamal</Autor>
+      <Cena>16</Cena>
+      <NrSeryjny>1037/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>reggae</KategoriaMuzyki>
+      <Wytwornia>Warszawska</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Pianista</Nazwa>
+      <DataWydania>2006-10-12T00:00:00</DataWydania>
+      <Autor>John Pitch</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1019/2006/F</NrSeryjny>
+      <RodzajFilmu>familijny</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Piekny umysł</Nazwa>
+      <DataWydania>2004-10-12T00:00:00</DataWydania>
+      <Autor>Steven Soldier</Autor>
+      <Cena>78</Cena>
+      <NrSeryjny>1018/2004/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Pisarka</Nazwa>
+      <DataWydania>2007-07-07T00:00:00</DataWydania>
+      <Autor>Michalak Katarzyna</Autor>
+      <Cena>42</Cena>
+      <NrSeryjny>1060/2007/K</NrSeryjny>
+      <TypKsiazki>dokument</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Podróż</Nazwa>
+      <DataWydania>2013-10-10T00:00:00</DataWydania>
+      <Autor>Oddział Zamknięty</Autor>
+      <Cena>29</Cena>
+      <NrSeryjny>1035/2013/CD</NrSeryjny>
+      <KategoriaMuzyki>rock</KategoriaMuzyki>
+      <Wytwornia>Swag</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Podziemny krąg</Nazwa>
+      <DataWydania>2009-10-13T00:00:00</DataWydania>
+      <Autor>John Bubble</Autor>
+      <Cena>66</Cena>
+      <NrSeryjny>1016/2009/F</NrSeryjny>
+      <RodzajFilmu>podróżniczy</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Pozwól mi wrócić</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Paris B.A.</Autor>
+      <Cena>25</Cena>
+      <NrSeryjny>1045/2017/K</NrSeryjny>
+      <TypKsiazki>kryminał</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Pulp Fiction</Nazwa>
+      <DataWydania>2018-10-12T00:00:00</DataWydania>
+      <Autor>George Bloom</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1012/2018/F</NrSeryjny>
+      <RodzajFilmu>fantasy</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Randka w ciemności</Nazwa>
+      <DataWydania>2017-02-03T00:00:00</DataWydania>
+      <Autor>Nocny Kochanek</Autor>
+      <Cena>39</Cena>
+      <NrSeryjny>1033/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>rock</KategoriaMuzyki>
+      <Wytwornia>Empik</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Rodzanice. Lipowo. Tom 10</Nazwa>
+      <DataWydania>2011-02-27T00:00:00</DataWydania>
+      <Autor>Puzyńska Katarzyna</Autor>
+      <Cena>49</Cena>
+      <NrSeryjny>1056/2011/K</NrSeryjny>
+      <TypKsiazki>historia</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Siedem</Nazwa>
+      <DataWydania>2013-10-12T00:00:00</DataWydania>
+      <Autor>Adam Smith</Autor>
+      <Cena>75</Cena>
+      <NrSeryjny>1014/2013/F</NrSeryjny>
+      <RodzajFilmu>fantasy</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Skazani na Shawshank</Nazwa>
+      <DataWydania>1995-04-16T00:00:00</DataWydania>
+      <Autor>Frank Darabont</Autor>
+      <Cena>55</Cena>
+      <NrSeryjny>1003/1995/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Skazani na Shawshank</Nazwa>
+      <DataWydania>1995-04-16T00:00:00</DataWydania>
+      <Autor>Frank Darabont</Autor>
+      <Cena>55</Cena>
+      <NrSeryjny>1003/1995/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Skrzydlate ręce</Nazwa>
+      <DataWydania>2016-03-04T00:00:00</DataWydania>
+      <Autor>Enej</Autor>
+      <Cena>26</Cena>
+      <NrSeryjny>1042/2016/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Hejwy</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Sponsor. Tom 2</Nazwa>
+      <DataWydania>2017-12-15T00:00:00</DataWydania>
+      <Autor>Haner K.N.</Autor>
+      <Cena>18</Cena>
+      <NrSeryjny>1054/2017/K</NrSeryjny>
+      <TypKsiazki>romans</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Srebrna zatoka</Nazwa>
+      <DataWydania>2006-04-29T00:00:00</DataWydania>
+      <Autor>Moyes Jojo</Autor>
+      <Cena>59</Cena>
+      <NrSeryjny>1057/2006/K</NrSeryjny>
+      <TypKsiazki>przygodowy</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Tatuażysta z Auschwitz</Nazwa>
+      <DataWydania>2016-08-15T00:00:00</DataWydania>
+      <Autor>Morris Heather</Autor>
+      <Cena>80</Cena>
+      <NrSeryjny>1044/2016/K</NrSeryjny>
+      <TypKsiazki>dokument</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>The Greatest Hits</Nazwa>
+      <DataWydania>2017-09-10T00:00:00</DataWydania>
+      <Autor>Queen</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1023/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Platinum</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>To tu</Nazwa>
+      <DataWydania>2018-01-02T00:00:00</DataWydania>
+      <Autor>Kękę</Autor>
+      <Cena>36</Cena>
+      <NrSeryjny>1026/2018/CD</NrSeryjny>
+      <KategoriaMuzyki>hiphop</KategoriaMuzyki>
+      <Wytwornia>Prosto</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>W drodze po szczęście</Nazwa>
+      <DataWydania>2018-01-02T00:00:00</DataWydania>
+      <Autor>OSTR</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1032/2018/CD</NrSeryjny>
+      <KategoriaMuzyki>hiphop</KategoriaMuzyki>
+      <Wytwornia>Hej</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>W pięciu smakach</Nazwa>
+      <DataWydania>2015-01-01T00:00:00</DataWydania>
+      <Autor>Brodka</Autor>
+      <Cena>20</Cena>
+      <NrSeryjny>1036/2015/CD</NrSeryjny>
+      <KategoriaMuzyki>inne</KategoriaMuzyki>
+      <Wytwornia>Raj</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Weź się ogarnij</Nazwa>
+      <DataWydania>2017-01-19T00:00:00</DataWydania>
+      <Autor>Pani Bukowa</Autor>
+      <Cena>49</Cena>
+      <NrSeryjny>1061/2017/K</NrSeryjny>
+      <TypKsiazki>poradnik</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Władca Pierścieni: Dwie wieże</Nazwa>
+      <DataWydania>2018-10-12T00:00:00</DataWydania>
+      <Autor>Johann Smarowsky</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1015/2018/F</NrSeryjny>
+      <RodzajFilmu>romans</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Władca Pierścieni: powrót króla</Nazwa>
+      <DataWydania>2004-01-01T00:00:00</DataWydania>
+      <Autor>Peter Jackson</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1011/2004/F</NrSeryjny>
+      <RodzajFilmu>fantasy</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Zaczarowana zagroda</Nazwa>
+      <DataWydania>2010-03-04T00:00:00</DataWydania>
+      <Autor>Centkiewicz Alina, Centkiewicz Czesław</Autor>
+      <Cena>57</Cena>
+      <NrSeryjny>1058/2010/K</NrSeryjny>
+      <TypKsiazki>dla_dzieci</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Zaginięcie. Joanna Chyłka. Tom 2</Nazwa>
+      <DataWydania>2016-08-01T00:00:00</DataWydania>
+      <Autor>Mróz Remigiusz</Autor>
+      <Cena>55</Cena>
+      <NrSeryjny>1050/2016/K</NrSeryjny>
+      <TypKsiazki>dramat</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Zielona mila</Nazwa>
+      <DataWydania>2000-03-24T00:00:00</DataWydania>
+      <Autor>Frank Darabont</Autor>
+      <Cena>59</Cena>
+      <NrSeryjny>1004/2000/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Życie jest piękne</Nazwa>
+      <DataWydania>2000-10-22T00:00:00</DataWydania>
+      <Autor>Jack Johanson</Autor>
+      <Cena>67</Cena>
+      <NrSeryjny>1013/2000/F</NrSeryjny>
+      <RodzajFilmu>historia</RodzajFilmu>
+    </Produkt>
+  </ListaProduktow>
+  <IloscProduktow>61</IloscProduktow>
+</Magazyn>

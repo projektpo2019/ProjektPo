@@ -1,0 +1,28 @@
+﻿<Window x:Class="GUIProjektPo.KlientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUIProjektPo"
+        mc:Ignorable="d"
+        Title="KlientWindow" Height="450" Width="400">
+    <Grid>
+        <Label x:Name="Klient_label" Content="Klient"  HorizontalAlignment="Left" VerticalAlignment="Bottom" FontSize="24" RenderTransformOrigin="2.586,2.58" Margin="29,0,0,323" Height="68" Width="341" Grid.ColumnSpan="2"/>
+        <Label x:Name="nazwisko" Content="Nazwisko"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" Width="105" Margin="45,113,0,0" RenderTransformOrigin="0.493,0"/>
+        <Label x:Name="miejscowosc" Content="Miejscowosc"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="45,149,0,0"/>
+        <Label x:Name="ulica" Content="Ulica"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Width="67" RenderTransformOrigin="0.981,2.202" Margin="45,180,0,0"/>
+        <Label x:Name="kodpocztowy" Content="Kod-pocztowy"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="35" Width="151" RenderTransformOrigin="0.789,2.82" Margin="45,211,0,0"/>
+        <Label x:Name="nrTelefony" Content="nrTelefonu"  FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="34" Width="67" Margin="45,251,0,0" RenderTransformOrigin="0.672,2.897"/>
+        <Label x:Name="email" Content="e-mail" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Width="67" Margin="45,290,0,0"/>
+        <TextBox x:Name="imiee" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.154,2.087" Margin="201,93,0,0"/>
+        <TextBox x:Name="nazwiskoo" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="201,133,0,0"/>
+        <TextBox x:Name="miejscowoscc" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="201,161,0,0"/>
+        <TextBox x:Name="ulicaa" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="1.329,3.457" Margin="201,189,0,0"/>
+        <TextBox x:Name="kodpocztowyy" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.954,3.652" Margin="201,223,0,0"/>
+        <TextBox x:Name="numertell" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="201,262,0,0"/>
+        <TextBox x:Name="emaill" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="201,303,0,0"/>
+        <Label Content="Imie" HorizontalAlignment="Left"  FontSize="20" VerticalAlignment="Top" Height="35" Margin="45,81,0,0" RenderTransformOrigin="0.5,0.5" Width="83"/>
+        <Button  x:Name="Button_Zatwierdz" Content="Zatwierdz" HorizontalAlignment="Left" VerticalAlignment="Top" Width="74" Margin="138,365,0,0" Click="Button_Click"/>
+
+    </Grid>
+</Window>

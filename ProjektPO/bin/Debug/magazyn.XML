@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Magazyn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NazwaM>Magazyn sklepu internetowego SOWA</NazwaM>
+  <ListaProduktow>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Małomiasteczkowy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Dawid Podsiadło</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1001/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Opolska</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Baśnie 1000 i jednej nocy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Allie Morgan</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1002/2017/K</NrSeryjny>
+      <TypKsiazki>bajka</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Film">
+      <Nazwa>Nietykalni</Nazwa>
+      <DataWydania>2018-10-12T00:00:00</DataWydania>
+      <Autor>Adam Nowak</Autor>
+      <Cena>50</Cena>
+      <NrSeryjny>1003/2018/F</NrSeryjny>
+      <RodzajFilmu>dramat</RodzajFilmu>
+    </Produkt>
+  </ListaProduktow>
+  <IloscProduktow>3</IloscProduktow>
+</Magazyn>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zamowienie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Platnosc>za_pobraniem</Platnosc>
+  <Wysylka>kurier</Wysylka>
+  <ZamowioneProdukty>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Becoming. Moja historia</Nazwa>
+      <DataWydania>2018-01-10T00:00:00</DataWydania>
+      <Autor>Obama Michelle</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1048/2018/K</NrSeryjny>
+      <TypKsiazki>biografia</TypKsiazki>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Będzie bolało</Nazwa>
+      <DataWydania>0001-01-01T00:00:00</DataWydania>
+      <Autor>Kay Adam</Autor>
+      <Cena>69</Cena>
+      <NrSeryjny>1059/1/K</NrSeryjny>
+      <TypKsiazki>reportaż</TypKsiazki>
+    </Produkt>
+  </ZamowioneProdukty>
+  <Klient>
+    <Imie>hhh</Imie>
+    <Nazwisko>ssss</Nazwisko>
+    <Miejscowosc>sss</Miejscowosc>
+    <Ulica>sss</Ulica>
+    <KodPocztowy>sssss</KodPocztowy>
+    <NrTelefonu>123456789</NrTelefonu>
+    <Email>fff</Email>
+  </Klient>
+</Zamowienie>

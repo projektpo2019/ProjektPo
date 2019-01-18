@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zamowienie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Platnosc>karta_platnicza</Platnosc>
+  <Wysylka>kurier</Wysylka>
+  <ZamowioneProdukty>
+    <Produkt xsi:type="PlytaCD">
+      <Nazwa>Małomiasteczkowy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Dawid Podsiadło</Autor>
+      <Cena>30</Cena>
+      <NrSeryjny>1001/2017/CD</NrSeryjny>
+      <KategoriaMuzyki>pop</KategoriaMuzyki>
+      <Wytwornia>Opolska</Wytwornia>
+    </Produkt>
+    <Produkt xsi:type="Ksiazka">
+      <Nazwa>Baśnie 1000 i jednej nocy</Nazwa>
+      <DataWydania>2017-08-15T00:00:00</DataWydania>
+      <Autor>Allie Morgan</Autor>
+      <Cena>40</Cena>
+      <NrSeryjny>1002/2017/K</NrSeryjny>
+      <TypKsiazki>bajka</TypKsiazki>
+    </Produkt>
+  </ZamowioneProdukty>
+  <Klient>
+    <Imie>Jan</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Miejscowosc>Kraków</Miejscowosc>
+    <Ulica>Gramatyka 10/13</Ulica>
+    <KodPocztowy>36-052</KodPocztowy>
+    <NrTelefonu>555666777</NrTelefonu>
+    <Email>jankow@o2.pl</Email>
+  </Klient>
+</Zamowienie>
